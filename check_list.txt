@@ -1,0 +1,7 @@
+Environment:MacOS 12.4				
+Test-date:26.07.2022				
+Tester:	Udovychenko A.				                                              Result
+Checking :      Registration form						             
+        1	Registering using valid data.	                                              Passed		
+        2	Use an incomplete name in the FullName field. (only First or Second Name      Failed		
+        3 Use the spacebar in the field (All; Email; Full Name; Password; Confirm password).  Passed				
